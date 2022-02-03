@@ -1,9 +1,6 @@
 # recruiter-autoresponse
-Based on the Medium Article entitled - "Career Advice Nobody Gave Me: Never ignore a recruiter" this repo has a copyable script which you can use to auto-respond to recruiters.
-
-This is licensed under MIT so please feel free to fork and use as you'd like. 
-
-If you like it, please consider leaving a github star.  I think that it would be super cool to see how many people this helps.
+src: https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556
+author: Alex Chesser
 
 ## the autoresponse
 
@@ -23,5 +20,5 @@ Thanks again for reaching out!
  
 I look forward to hearing from you.
 
-Alex
+Ian
 ```
